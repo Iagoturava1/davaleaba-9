@@ -25,8 +25,18 @@ ul{
 }
 nav{
 	margin: auto;
+
+
 }
-li{
+.bars {
+    cursor: pointer;
+    width: 30px;
+    display: none;
+}
+.bars1{
+	width: 30px;
+}
+.li{
 	margin-right: 50px;
 	font-family: 'Raleway', sans-serif; 
 	font-size: 15px;

@@ -1,0 +1,31 @@
+@media (max-width: 1200px)  {
+    nav{
+        display: none;
+    }
+    .bars{
+        display:block ;
+        justify-content: right;
+    }
+    .second{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .boxx1{
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 1010px) {
+
+.boxx1{
+    flex-wrap: wrap;
+}
+
+
+.boxx2{
+    flex-wrap: wrap;
+}
+
+
+
+}
